@@ -1,6 +1,6 @@
 {
   "name": "cgi-gin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Connect middleware for a folder of javascript modules",
   "main": "index.js",
   "scripts": {
